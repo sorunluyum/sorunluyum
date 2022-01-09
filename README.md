@@ -1,4 +1,4 @@
-<p align="center">
-  <a href="https://discord.com/users/918967170711568415"><img src="https://media.discordapp.net/attachments/929411266026553384/929801196535959593/discord-icon-flat-style-available-svg-png-eps-10.png"></a>
-  <a href="https://github.com/sorunluyum"><img src="https://cdn.discordapp.com/attachments/929411266026553384/929800758231191582/25231.png"></a>
-</p>
+# Diğer Bağlantılar
+
+[![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtEgq_GVmpMeqqXoIiAkE1g)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/carders)
